@@ -2,7 +2,7 @@ import axios from 'axios';
 export const FETCH_POSTS = 'fecth_posts';
 export const FETCH_POSTS_MORE = 'fecth_posts_more';
 export const FETCH_HOTGIRLS = 'fecth_hotgirls';
-export const ROOT_URL = 'http://api.vnsexybae.com/public';
+export const ROOT_URL = 'https://api.vnsexybae.com/public';
 const API_KEY = '';
 
 export function fetchHotgirls() {
